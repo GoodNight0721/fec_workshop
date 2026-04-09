@@ -4,7 +4,7 @@ import time
 import rqdatac
 
 # 把教育版 license 直接粘贴到 PASSWD
-PASSWD = ""
+PASSWD = "9qCyBHTn1oop9PFrEGs0gX_3brK5gWd3U_bl4Xql-1bdZiu5z93MPkoB0-f99GTJYmnDgFawTLm1xypVYxp-uAsGHpN9I4lMlIgKJMxfzFlLdDi_zIsL6Chzv4xjhjLybpw3KlegEPco27BZ5it8gCb53opmnRv1xvM937m0f0=HAf_ZY_gevO08quesn6NLrx9ygL3WCtsoFICUIfRNnVXpzM3a288oZNyWvlt5VahwuPW1Y8MTQflW3XoR9e__1nZARS8VzPlEYcr9tMz7erex--jctwuQYoZDd8CGy5VmMa6bvFKv-kK0dhsbB9M9hK9LKdD3k1opU0JqYrPW7c="
 
 def download_etf_data():
     if PASSWD:
